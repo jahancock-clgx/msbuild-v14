@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>msbuild-v14</id>
+    <version>1.0.0</version>
+    <title>msbuild-v14 (Install)</title>
+    <authors>Jarred Hancock</authors>
+    <owners>Jarred Hancock</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/jahancock-clgx</projectUrl>
+    <description>Support for legacy .NET Docker deployments</description>
+    <summary>MSbuild-Legacy Version</summary>
+    <tags>msbuild-v14 SPACE_SEPARATED</tags>
+  </metadata>
+</package>
